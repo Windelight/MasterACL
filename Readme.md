@@ -73,7 +73,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 
 
 ## 版权
-* Copyright &copy; 2016-2019 NciYuan! Team. Common Rights Statement.
-* Copyright &copy; 2019 Guan 'Windelight' MingZheng. All Rights Reserved.  
+* Copyright &copy; 2016-2019 NciYuan! Team. All Rights Reserved.
+* Copyright &copy; 2019 Guan 'Windelight' MingZheng. All Rights Reserved.
 
 *** MIT License ***
